@@ -1,6 +1,5 @@
 # COMP120 – Assignment 3: GitHub Project Management
-**Student:** Darius Pal  
-**Course:** COMP120  
+**COMP120_DariusPal_versioncontrol**
 **License:** Apache 2.0
 
 ---
